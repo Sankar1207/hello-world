@@ -1,2 +1,1 @@
-# hello-world
-"My first respository on GitHub"
+* @global-owner1 @global-owner2
